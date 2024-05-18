@@ -8,7 +8,7 @@
 ## [Propuesta 1](/SP2/propuesta1)
 ## [Propuesta 2](/SP2/propuesta2)
 
-## [Reporte de la Actividad](/SP2/Actividad%20Integradora%202.pdf)
+## [Reporte de la Actividad](/SP2/)
 
-## [Presentación](/SP2/)
+## [Presentación](/SP2/Actividad%20Integradora%202.pdf)
 
